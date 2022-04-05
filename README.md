@@ -2,7 +2,7 @@
 
 ##### This is the backend portion of the project. To view the app in action please click **https://welovemovies-capstone-frontend.herokuapp.com/**
 
-##### To view deployed backend please click **https://welovemovies-capstone-backend.herokuapp.com/**. This link works for all path described in the project.
+##### To view deployed backend please click **https://welovemovies-capstone-backend.herokuapp.com/**. This link works for all paths described in the project.
 ##### To run repo locally
 - **Fork** repo
 - **Clone** into local system
