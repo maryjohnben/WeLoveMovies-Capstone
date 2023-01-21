@@ -1,3 +1,5 @@
+**App is in the process of being reployed using Render
+
 # WeLoveMovies-Capstone
 
 This project is mainly focuses in demonstrating the skills in developing server and database using NodeJS, ExpressJS, JavaScript, PostgresSQL, ElephantSQL.
