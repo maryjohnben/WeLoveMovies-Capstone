@@ -1,4 +1,4 @@
-**App is in the process of being reployed using Render
+**App is in the process of being reployed using Render. The older live app using heroku will not work for the time being.
 
 # WeLoveMovies-Capstone
 
