@@ -7,7 +7,7 @@ Both frontend and backend is deployed using Heroku. Feel free to checkout the ap
 
 To view the app in action please click **https://welovemovies-capstone-frontend.herokuapp.com/** **frontend is in the process of being linked with backend using Render. This link may not work as of now.
 
-To view deployed backend please click **https://welovemovies-backend-project.onrender.com**. This link only works for all paths described in the project. For example, to view a demo backend of all movies listed, use this link **https://welovemovies-backend-project.onrender.com/movies**
+To view deployed backend please click **https://welovemovies-backend-project.onrender.com**. This link only works for paths described in the project. For example, to view a demo backend of all movies listed, use this link **https://welovemovies-backend-project.onrender.com/movies**
 
 ##### To run repo locally
 - **Fork** repo
