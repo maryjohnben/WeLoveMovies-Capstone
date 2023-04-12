@@ -1,4 +1,4 @@
-**App is in the process of being reployed using Render. The older live app using heroku will not work for the time being. The app is accessible locally. Please follow the directions below to access it on the local system.
+**Frontend is in the process of being reployed using Render. The older live app using heroku will not work for the time being. The app is accessible locally. Please follow the directions below to access it on the local system.
 
 # WeLoveMovies-Capstone
 
