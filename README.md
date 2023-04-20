@@ -2,8 +2,8 @@
 
 # WeLoveMovies-Capstone
 
-This project is mainly focuses in demonstrating the skills in developing server and database using NodeJS, ExpressJS, JavaScript, PostgresSQL, ElephantSQL.
-Both frontend and backend is deployed using Heroku. Feel free to checkout the application using the link below.
+This project mainly focuses on demonstrating the skills in developing server and database using NodeJS, ExpressJS, JavaScript, PostgresSQL, ElephantSQL.
+There is frontend portion even though project focuses on backend. Backend is deployed using Render. Feel free to checkout the application using the link below.
 
 **frontend is in the process of being linked with backend using Render.
 
