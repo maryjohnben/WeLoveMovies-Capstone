@@ -15,5 +15,5 @@ To view deployed backend please click **https://welovemovies-backend-project.onr
 - **npm install** 
 - **npm start** to start the server on http://localhost:5000
 
-**Once the server is up, data can be pulled using browser or postman and will work for all specified paths described in the project.
+**Once the server is up, data can be pulled using any browser or postman,  and will work for all specified paths described in the project.
 
